@@ -1,0 +1,10 @@
+io\app\SpringBootApp\Exception\UserNotFoundException.class
+io\app\SpringBootApp\Service\UserService.class
+io\app\SpringBootApp\UserController\UserController.class
+io\app\SpringBootApp\Config\SwaggerConfig.class
+io\app\SpringBootApp\Config\WebConfig.class
+io\app\SpringBootApp\Exception\BadRequestException.class
+io\app\SpringBootApp\Entity\User.class
+io\app\SpringBootApp\Repository\UserRepository.class
+io\app\SpringBootApp\Application.class
+io\app\SpringBootApp\Service\UserServiceImpl.class
